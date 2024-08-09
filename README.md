@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and problem solver
 
 Here are a few examples of my work:
 
-- **[Linear Regression Model](https://github.com/kashh56/linear-regression):** A Jupyter Notebook showcasing how to build and evaluate a simple linear regression model using Scikit-learn and Statsmodels.
+- **[Linear Regression Model](https://github.com/kashh56/Simple_liner_regression):** A Jupyter Notebook showcasing how to build and evaluate a simple linear regression model using Scikit-learn and Statsmodels.
 - **[Web Scraping Project](https://github.com/kashh56/web-scraping):** A project demonstrating how to use Beautiful Soup and Requests to scrape data from websites.
 
 ## 🌟 What I’m Looking For
