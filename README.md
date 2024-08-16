@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist and problem solver
 - 🌱 I’m constantly learning and exploring new techniques in data science and ML.
 - 🤔 I’m a problem solver who loves tackling complex challenges with data.
 - 💬 Feel free to ask me about Python, data analysis, or any interesting data science topics.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akash-anandanni) | [Email](mailto:akash.anandanni@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/akashanandani) | [Email](mailto:akashanandani.56@gmail.com)
 
 ## 🛠️ Skills
 
