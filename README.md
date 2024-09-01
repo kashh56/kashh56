@@ -15,12 +15,17 @@ Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver w
 - **Programming Languages:** Python
 - **Libraries & Tools:** 
   - **Data Analysis:** Pandas, NumPy
-  - **Data Visualization:** Matplotlib
+  - **Data Visualization:** Matplotlib , seaborn , plotly
   - **Machine Learning:** Scikit-learn, Statsmodels
+  - **Database:** MySqL
+  - **Web application:** Streamlit library
+  - **Frameworks:** Langchain , Flask  
 - **Interests:**
   - Data Science
   - Machine Learning
   - Problem Solving
+  - Generative Ai
+    
 
 ## 📚 Projects
 
