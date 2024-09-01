@@ -1,4 +1,4 @@
-# Hi there, I'm Akash Anandanni 👋
+# Hi there, I'm Akash Anandani 👋
 
 Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
 
@@ -31,8 +31,10 @@ Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver w
 
 Here are a few examples of my work:
 
-- **[Linear Regression Model](https://github.com/kashh56/Simple_liner_regression):** A Jupyter Notebook showcasing how to build and evaluate a simple linear regression model using Scikit-learn and Statsmodels.
-
+- **[Linear Regression Model Building process](https://github.com/kashh56/Simple_linear_regression_model_building_process):** A Jupyter Notebook showcasing how to build and evaluate a simple linear regression model using Scikit-learn and Statsmodels.
+- **[Visionary Chatbot Using Gemini Api](https://github.com/kashh56/image-to-text-chatbot-using-gemini-api-and-streamlit):** A project where i made a chatbot in which you can ask questions on the images you give to the generative model , this was possible with the help of gemini api. 
+- **[Text to Text generation chatbot](https://github.com/kashh56/chatbot-using-flask-and-gemini-api):** A Chat bot made using flask framework and gemini api showcasing endless possibilities of generative ai.
+- **[Car Price Prediction Using Multiple Linear Regression ](https://github.com/kashh56/Car-price-prediction-using-multiple-linear-regression):** This project focuses on predicting car prices using multiple linear regression techniques. The goal is to model the price of cars based on various features to understand the factors influencing car pricing.
 
 ## 🌟 What I’m Looking For
 
