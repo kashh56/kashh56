@@ -1,6 +1,6 @@
 # Hi there, I'm Akash Anandanni 👋
 
-Welcome to my GitHub profile! I'm a passionate data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
+Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
 
 ## 👨‍💻 About Me
 
