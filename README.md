@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/icons/tansen.svg" width="450px" height="auto" alt='Tansen'>
+<img src="/icons/tansen.svg" width="450px" height="auto" alt='Tansen'>
 </div>
 
 <p align="center">
