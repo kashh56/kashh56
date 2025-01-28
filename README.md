@@ -2,29 +2,26 @@
 <img src="/icons/tansen.svg" width="450px" height="auto" alt='Tansen'>
 </div>
 
+
 <p align="center">
-<a href="https://github.com/aatansen?tab=repositories">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Learning+New+Things;Playing+Games;Developing+Problem+Solving+Skills;Critical+Thinker&center=true">
+<a href="https://github.com/kashh56?tab=repositories">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Exploring+and+Acquiring+Knowledge;Building+Creative+Solutions;Refining+Logical+Thinking;Lifelong+Learner;Strategic+Problem+Solver;&center=true">
 </a>
 </p>
 
 <h3 align="center">
-<a href="https://github.com/aatansen"><img src="https://komarev.com/ghpvc/?username=aatansen"></a>
-<a href="https://github.com/aatansen?tab=followers"><img src="https://img.shields.io/github/followers/aatansen?label=Followers&style=social" alt="GitHub Badge"></a>
-<a href="https://twitter.com/aatansen" target="blank"><img src="https://img.shields.io/twitter/follow/aatansen?style=social" alt="aatansen" /></a></h3>
 
-## <img src="/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> About Me
 
-- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m devoloping my skills on JavaScript , Python , C++
+## <img src="/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> Snapshot of Me
 
-- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m currently learning Backend Development
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m advancing my proficiency in  OpenCV, NLP, and TensorFlow.
 
-- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I’m interested in **Machine Learning**,**Deep Learning**,**Web Development**
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> Exploring AI concepts and applications , on a journey to learn AI.
 
-- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://aatansen.github.io)**<img src="/images/fire.webp" alt="Fire" width="15" height="15" />
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> Passionate about Machine Learning, Deep Learning, and both Web and App Development.
 
-## <img src="/images/Cloud.webp" alt="Cloud" width="25" height="25" /> This week I spent my time on
-![Time Spent](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=aatansen&hide_title=true&hide_border=true&bg_color=00000000&text_color=777)
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://kashh56.github.io/)**<img src="/images/fire.webp" alt="Fire" width="15" height="15" />
+
 
 ## <img src="/images/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Skills
 | **#** | **Language/Tools** | **Proficiency** |
