@@ -47,6 +47,8 @@ Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver w
 | <a href="https://www.cprogramming.com/"><img src="/icons/c.svg" width="25"></a> | `C` |<img src="/images/processing.webp" alt="Advance" width="25">|
 |<a href="https://html5.org/"><img src="/icons/html5.svg" width="25"></a> | `HTML5`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://html5.org/"><img src="icons/tensorflow.svg" width="25"></a> | `Tensorflow`|<img src="/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://html5.org/"><img src="icons/file-type-numpy.svg" width="25"></a> | `NumPy`|<img src="/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://html5.org/"><img src="icons/opencv.svg" width="25"></a> | `Open CV`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="/icons/css3.svg" width="25"></a> | `CSS`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://getbootstrap.com/"><img src="/icons/bootstrap.svg" width="25"></a> | `Bootstrap`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="/icons/javascript.svg" width="25"></a>|`JavaScript` | <img src="/images/processing.webp" alt="Advance" width="25">|
@@ -59,9 +61,15 @@ Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver w
 ## <img src="/images/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> Connect with me
 
 <p align="left">
+<a href="https://www.linkedin.com/in/akashanandani/">
+  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://www.linkedin.com/in/akashanandani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/@akashanandani">
+  <img src="/icons/youtube.svg" width="40"/>
+</a>
+
 </br>
+
 ## 🌟 What I’m Looking For
 
 I’m always eager to collaborate on projects, contribute to open source, and learn new things. If you have an interesting project or idea, let’s connect!
