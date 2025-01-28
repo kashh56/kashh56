@@ -46,6 +46,7 @@ Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver w
 |<a href="https://code.visualstudio.com/"><img src="/icons/vscode.svg" width="25">| `VsCode`|<img src="/images/thunder.webp" alt="Mastery" width="25">|
 | <a href="https://www.cprogramming.com/"><img src="/icons/c.svg" width="25"></a> | `C` |<img src="/images/processing.webp" alt="Advance" width="25">|
 |<a href="https://html5.org/"><img src="/icons/html5.svg" width="25"></a> | `HTML5`|<img src="/images/fire.webp" alt="Advance" width="25"> |
+|<a href="https://html5.org/"><img src="icons/tensorflow.svg" width="25"></a> | `Tensorflow`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="/icons/css3.svg" width="25"></a> | `CSS`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://getbootstrap.com/"><img src="/icons/bootstrap.svg" width="25"></a> | `Bootstrap`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="/icons/javascript.svg" width="25"></a>|`JavaScript` | <img src="/images/processing.webp" alt="Advance" width="25">|
