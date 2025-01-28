@@ -11,6 +11,10 @@
 
 <h3 align="center">
 
+# Hi there, I'm Akash Anandani 👋
+
+Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
+
 
 ## <img src="/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> Snapshot of Me
 
@@ -20,6 +24,18 @@
 
 - <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> Passionate about Machine Learning, Deep Learning, and both Web and App Development.
 
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I am proficient in Python and have foundational knowledge of C programming.
+
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I have experience working with Flask, Django, and FastAPI frameworks.
+
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I am proficient in using libraries such as NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, and Keras.
+  
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I have completed multiple internships in the data domain, including roles focused on machine learning engineering.
+
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> I am currently focusing on studying deep learning frameworks and exploring fields such as NLP, computer vision, and agentic AI.
+
+- <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> My future goal is to learn MLOps, JavaScript, and explore mobile app development frameworks in order to effectively deploy machine learning applications end-to-end.
+
 - <img src="/images/Rocket.webp" alt="Rocket" width="25" height="25" /> All of my projects are available at **[My Portfolio](https://kashh56.github.io/)**<img src="/images/fire.webp" alt="Fire" width="15" height="15" />
 
 
@@ -28,10 +44,7 @@
 | :------------------------------------------------------------------------------------------------------------: | :----------: | :-------------------------------------------------------------------: |
 |<a href="https://stackoverflow.com/"><img src="/icons/stackoverflow.svg" width="25">| `CTRL+C & CTRL+V`|<img src="/images/thunder.webp" alt="Mastery" width="25">|
 |<a href="https://code.visualstudio.com/"><img src="/icons/vscode.svg" width="25">| `VsCode`|<img src="/images/thunder.webp" alt="Mastery" width="25">|
-| <a href="https://www.cprogramming.com/"><img src="/icons/c.svg" width="25"></a> | `C` | <img src="/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://cplusplus.com/"><img src="/icons/cplusplus.svg" width="25"></a> | `C++` | <img src="/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://www.java.com/en/"><img src="/icons/java.svg" width="25"></a> | `Java` | <img src="/images/dead.webp" alt="Advance" width="25"> |
-| <a href="https://www.php.net/"><img src="/icons/php.svg" width="25"></a> | `PHP` | <img src="/images/dead.webp" alt="Advance" width="25"> |
+| <a href="https://www.cprogramming.com/"><img src="/icons/c.svg" width="25"></a> | `C` |<img src="/images/processing.webp" alt="Advance" width="25">|
 |<a href="https://html5.org/"><img src="/icons/html5.svg" width="25"></a> | `HTML5`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="/icons/css3.svg" width="25"></a> | `CSS`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://getbootstrap.com/"><img src="/icons/bootstrap.svg" width="25"></a> | `Bootstrap`|<img src="/images/fire.webp" alt="Advance" width="25"> |
@@ -39,42 +52,20 @@
 |<a href="https://git-scm.com/"><img src="/icons/git.svg" width="25">| `Git`|<img src="/images/thunder.webp" alt="Mastery" width="25">|
 |<a href="https://www.python.org/"><img src="/icons/python.svg" width="25"></a> | `Python`|<img src="/images/fire.webp" alt="Advance" width="25"> |
 |<a href="https://www.djangoproject.com/"><img src="/icons/django.svg" width="25"></a>|`Django`|<img src="/images/fire.webp" alt="Advance" width="25">|
-|<a href="https://nodejs.org/"><img src="/icons/nodejs.svg" width="25"></a> | `NodeJS`| <img src="/images/loading.webp" alt="Beginner" width="25">|
-| <a href="https://expressjs.com/"><img src="/icons/express.svg" width="25"></a>| `ExpressJS`| <img src="/images/loading.webp" alt="Beginner" width="25">|
 |<a href="https://reactjs.org/"><img src="/icons/react.svg" width="25"></a> | `ReactJS` | <img src="/images/loading.webp" alt="Beginner" width="25">|
-| <a href="https://nextjs.org/"><img src="/icons/nextjs.svg" width="25"></a>|`NextJS` | <img src="/images/loading.webp" alt="Beginner" width="25">|
 
-## <img src="/images/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> My Github Stats
-
-<p align="center">
-    <a href="https://github.com/aatansen?tab=repositories">
-        <img alt="Tansen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aatansen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<table>
-  <tr>
-    <td style="padding: 5px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aatansen&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
-    <td style="padding: 10px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatansen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 5px;"><a href="https://github.com/aatansen?tab=repositories"><img alt="Tansen's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aatansen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></td>
-  </tr>
-</table>
-
-## <img src="/images/Trophy.webp" alt="Trophy" width="25" height="25" /> Achievement
-
-<p align="left"> <a href="https://github.com/aatansen?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=aatansen" alt="Tansen's Trophy" /></a> </p>
 
 ## <img src="/images/Thought%20Balloon.webp" alt="Thought Balloon" width="25" height="25" /> Connect with me
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aatansen/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aatansen"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.facebook.com/aatansen"><img src="https://img.icons8.com/fluency/50/000000/facebook.png"/></a>
+<a href = "https://www.linkedin.com/in/akashanandani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </br>
-<div align="center">
-<i>Random dev joke<img src="/images/Ghost.webp" alt="Ghost" width="25" height="25" /></i><br>
-<a href="https://github.com/aatansen?tab=repositories"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
-</p>
+## 🌟 What I’m Looking For
+
+I’m always eager to collaborate on projects, contribute to open source, and learn new things. If you have an interesting project or idea, let’s connect!
+
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or want to collaborate.
