@@ -13,7 +13,7 @@
 
 # Hi there, I'm Akash Anandani 👋
 
-Welcome to my GitHub profile! I'm a aspiring data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
+Welcome to my GitHub profile! I'm a  data scientist and problem solver with a strong foundation in Python and various data science libraries. Here’s a bit more about me and my work.
 
 
 ## <img src="/images/Face%20In%20Clouds.webp" alt="Face In Clouds" width="25" height="25" /> Snapshot of Me
